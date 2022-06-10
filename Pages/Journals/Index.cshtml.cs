@@ -42,7 +42,7 @@ namespace MyScriptureJournal.Pages.Journals
 
             if (!string.IsNullOrEmpty(SearchString))
             {
-                journals = journals.Where(s => s.Book.Contains(SearchString));
+                journals = journals.Where(s => s.Notes.Contains(SearchString));
 
             }
 

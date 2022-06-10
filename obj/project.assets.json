@@ -7482,7 +7482,7 @@
       "outputPath": "/Users/chikaberry/Projects/MyScriptureJournal/MyScriptureJournal/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/chikaberry/.nuget/NuGet/NuGet.Config"
+        "/Users/chikaberry/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
